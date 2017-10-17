@@ -4,4 +4,4 @@
 ## ***踏上征程，一往无前！***
 ### September
 ### 重头开始重学JavaScript
-1. [JavaScript中的隐式类型转换]{https://github.com/Meepo01/Blog/issues/2}
+1. [JavaScript中的隐式类型转换](https://github.com/Meepo01/Blog/issues/2)
