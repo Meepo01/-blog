@@ -4,4 +4,4 @@
 ***
 ## ***踏上征程，一往无前！***
 ### September
->*重头开始重学JavaScript
+>* 重头开始重学JavaScript
